@@ -16,6 +16,7 @@ public class Order {
 
     private Integer paymentType;
 
+    //运费
     private Integer postage;
 
     private Integer status;
