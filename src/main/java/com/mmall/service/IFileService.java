@@ -5,6 +5,6 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * Created by fxf on 2017/11/11.
  */
-public interface IFileServiceI {
+public interface IFileService {
     String upload(MultipartFile file, String path);
 }
